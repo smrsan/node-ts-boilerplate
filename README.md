@@ -2,6 +2,13 @@
 
 The Fundamental &amp; Required Scripts Before Starting A Clean TypeScript Project In Node.js
 
+# Table of Contents
+
+- [node-ts-boilerplate](#node-ts-boilerplate)
+- [Table of Contents](#table-of-contents)
+- [Installation](#installation)
+- [Scripts](#scripts)
+
 # Installation
 
 You need [pnpm](https://pnpm.io/) to install the node_modules (the dependencies of project):
